@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/MyProfile/static/css/main.d24aebd5.chunk.css",
-    "main.js": "/MyProfile/static/js/main.9d924849.chunk.js",
-    "main.js.map": "/MyProfile/static/js/main.9d924849.chunk.js.map",
+    "main.css": "/MyProfile/static/css/main.2bb600b0.chunk.css",
+    "main.js": "/MyProfile/static/js/main.1f581992.chunk.js",
+    "main.js.map": "/MyProfile/static/js/main.1f581992.chunk.js.map",
     "runtime-main.js": "/MyProfile/static/js/runtime-main.daeaa641.js",
     "runtime-main.js.map": "/MyProfile/static/js/runtime-main.daeaa641.js.map",
     "static/js/2.fbbbb3cb.chunk.js": "/MyProfile/static/js/2.fbbbb3cb.chunk.js",
     "static/js/2.fbbbb3cb.chunk.js.map": "/MyProfile/static/js/2.fbbbb3cb.chunk.js.map",
     "index.html": "/MyProfile/index.html",
-    "static/css/main.d24aebd5.chunk.css.map": "/MyProfile/static/css/main.d24aebd5.chunk.css.map",
+    "static/css/main.2bb600b0.chunk.css.map": "/MyProfile/static/css/main.2bb600b0.chunk.css.map",
     "static/js/2.fbbbb3cb.chunk.js.LICENSE.txt": "/MyProfile/static/js/2.fbbbb3cb.chunk.js.LICENSE.txt",
     "static/media/Ravi.8271b78e.png": "/MyProfile/static/media/Ravi.8271b78e.png",
     "static/media/about_anime.986764c2.gif": "/MyProfile/static/media/about_anime.986764c2.gif",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.daeaa641.js",
     "static/js/2.fbbbb3cb.chunk.js",
-    "static/css/main.d24aebd5.chunk.css",
-    "static/js/main.9d924849.chunk.js"
+    "static/css/main.2bb600b0.chunk.css",
+    "static/js/main.1f581992.chunk.js"
   ]
 }
